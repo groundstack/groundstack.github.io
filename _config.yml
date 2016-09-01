@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "GroundStack"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "José Andrés Saumell"
 description              : "A site to show my work and share content related to embedded design and low-level programming"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
